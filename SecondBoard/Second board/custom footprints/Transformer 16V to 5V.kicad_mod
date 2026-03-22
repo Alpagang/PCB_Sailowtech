@@ -1,0 +1,124 @@
+(footprint "Transformer 16V to 5V"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 20.32 -23.852 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "01a39329-0d2d-42e3-8d58-3685bbe9cfdd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LM2596S-ADJ"
+		(at 20.32 -22.352 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "60e18226-d7ff-42cf-afc9-904f9fe85b44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 20.32 -23.352 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9991ba69-31f0-4154-b89f-3f5762f58b59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 20.32 -23.352 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fecac149-a39c-4f50-821d-3cb5440e2dbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -1.27 -19.05)
+		(end 41.91 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8fd30780-d929-45a5-b4b6-5c29e89b5188")
+	)
+	(fp_rect
+		(start -1.905 -19.685)
+		(end 42.545 1.905)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9968803d-1e15-4c1c-9cf0-8092c9b4b781")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 20.32 -20.852 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "50d6f9a9-e708-4aba-896d-19cba697ca44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -17.78)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d6823441-f8e2-447e-ae60-adea17e6eee6")
+	)
+	(pad "2" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7a86cd1c-af76-462e-9084-0698ac414b30")
+	)
+	(pad "3" thru_hole rect
+		(at 40.64 0)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2df8a363-9888-4e38-8129-b2e8d90459bb")
+	)
+	(pad "4" thru_hole circle
+		(at 40.64 -17.78)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "13a83fd2-19ad-4e47-aa4a-7e92b069bf35")
+	)
+	(embedded_fonts no)
+)

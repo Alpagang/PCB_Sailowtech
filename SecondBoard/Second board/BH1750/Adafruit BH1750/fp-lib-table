@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Adafruit BH1750")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit BH1750.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/guilh/Desktop/EPFL/Sailowtech/SecondBoard/Second board/custom footprints/Library.pretty/Library.pretty/Library.pretty")(options "")(descr ""))
+)
