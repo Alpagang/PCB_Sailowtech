@@ -1,18 +1,4 @@
-27273996989271097
-746
-XCVR_746
-
-
-0
-11
-11
-113991254
-MODULE_113991254
-
-
-0
-14
-14
+27247405181202519
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62208,13 +62194,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ESP32-DEVKITM-1
-MODULE_ESP32-DEVKITM-1
-
-
-0
-34
-34
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -71826,20 +71805,6 @@ Yellow 5381 Series LED
 0
 2
 2
-M50-3550542
-HARWIN_M50-3550542
-
-
-0
-10
-10
-M50-3650542R
-HARWIN_M50-3650542R
-
-
-0
-10
-10
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -107939,76 +107904,6 @@ Varistor VF
 0
 2
 2
-Zigbee
-0603-NO
-
-
-0
-2
-2
-Zigbee
-ADAFRUIT_3.5MM
-
-
-0
-0
-0
-Zigbee
-CHIPLED_0603_NOOUTLINE
-
-
-0
-2
-2
-Zigbee
-FIDUCIAL_1MM
-
-
-0
-1
-1
-Zigbee
-JST_SH4
-
-
-0
-6
-6
-Zigbee
-MOUNTINGHOLE_2.5_PLATED
-
-
-0
-1
-1
-Zigbee
-PCBFEAT-REV-040
-Revision Level Field - 40 mil{return}{return}Set version with global board attribute '>REV'
-
-0
-0
-0
-Zigbee
-SOLDERJUMPER_ARROW_NOPASTE
-
-
-0
-2
-2
-Zigbee
-STEMMAQT
-
-
-0
-0
-0
-Zigbee
-WSOF-6
-
-
-0
-6
-6
 custom footprints
 BAT_106
 
@@ -108017,12 +107912,12 @@ BAT_106
 2
 2
 custom footprints
-BH1750
+BME680
 
 
 0
-67
-13
+9
+8
 custom footprints
 DIP850W46P254L2324H393Q18
 

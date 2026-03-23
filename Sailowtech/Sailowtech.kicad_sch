@@ -3655,18 +3655,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(junction
-		(at 220.98 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2300434a-ba4e-4863-9aa2-5d7fdb50a8f2")
-	)
-	(junction
-		(at 214.63 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b1302b3-ecba-47b6-80c9-29593fcba1a5")
-	)
 	(wire
 		(pts
 			(xy 45.72 158.75) (xy 29.21 158.75)
@@ -3787,17 +3775,6 @@
 			(type default)
 		)
 		(uuid "2bcb4496-fea9-4e41-a42b-7f185e8e3dc9")
-	)
-	(wire
-		(pts
-			(xy 67.31 80.01) (xy 80.01 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "2cf32cce-5093-4544-a02c-9248366d4d64")
 	)
 	(wire
 		(pts
@@ -3933,17 +3910,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 46.99) (xy 229.87 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "6266d558-9ab0-4d48-acbc-5b596d5ba4b9")
-	)
-	(wire
-		(pts
 			(xy 120.65 87.63) (xy 135.89 87.63)
 		)
 		(stroke
@@ -3954,17 +3920,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 49.53) (xy 240.03 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "6448abf9-ee6b-484b-8ffb-1a71d8e11be3")
-	)
-	(wire
-		(pts
 			(xy 120.65 74.93) (xy 139.7 74.93)
 		)
 		(stroke
@@ -3972,17 +3927,6 @@
 			(type default)
 		)
 		(uuid "65068605-6fbe-463a-bf9e-f04e00027cb4")
-	)
-	(wire
-		(pts
-			(xy 69.85 44.45) (xy 69.85 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "685d3072-0206-40c6-a878-0ffb7447c82f")
 	)
 	(wire
 		(pts
@@ -4035,28 +3979,6 @@
 			(type default)
 		)
 		(uuid "7a195957-0280-452b-a097-8b2910413ed3")
-	)
-	(wire
-		(pts
-			(xy 240.03 71.12) (xy 214.63 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "7b8d196d-7790-4245-be4f-dbae0e3426df")
-	)
-	(wire
-		(pts
-			(xy 220.98 53.34) (xy 229.87 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "7dea2316-2a5e-4158-9f27-93cccd7d8ef1")
 	)
 	(wire
 		(pts
@@ -4113,39 +4035,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 46.99) (xy 229.87 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "8c757bb3-fc81-455c-8a4f-1890446a25cb")
-	)
-	(wire
-		(pts
-			(xy 48.26 44.45) (xy 69.85 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "92f8ec46-2a37-4903-9fd1-79741517358d")
-	)
-	(wire
-		(pts
-			(xy 67.31 46.99) (xy 67.31 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "9363d3a5-5382-4f62-a2c9-f643d53b96ab")
-	)
-	(wire
-		(pts
 			(xy 44.45 125.73) (xy 44.45 156.21)
 		)
 		(stroke
@@ -4184,17 +4073,6 @@
 			(type default)
 		)
 		(uuid "97a27980-2f56-49dc-84fb-aa4dfc672bc2")
-	)
-	(wire
-		(pts
-			(xy 69.85 77.47) (xy 80.01 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "9e9d4b87-2ed3-4194-856d-f567ee834842")
 	)
 	(wire
 		(pts
@@ -4257,17 +4135,6 @@
 			(type default)
 		)
 		(uuid "c283eede-e1cd-4e0a-8f0d-ff8f44d6eac4")
-	)
-	(wire
-		(pts
-			(xy 48.26 46.99) (xy 67.31 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "c501015d-832c-4840-9409-cfd0f801705c")
 	)
 	(wire
 		(pts
@@ -4359,67 +4226,6 @@
 			(type default)
 		)
 		(uuid "f091a1b5-c635-4fe2-8a3e-eed64b846670")
-	)
-	(wire
-		(pts
-			(xy 248.92 49.53) (xy 240.03 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 255 0 1)
-		)
-		(uuid "f61c9ef5-d4ee-4475-83b3-6943eb05cd0d")
-	)
-	(label "SCL"
-		(at 242.57 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0a5c61d4-5e45-49d8-b0af-422daa442b82")
-	)
-	(label "SDA"
-		(at 48.26 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "70a9a72f-e629-47bf-86af-34dbb58c5002")
-	)
-	(label "SCL"
-		(at 48.26 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b88534d1-d7cb-4061-9c64-e6b2ce1a8806")
-	)
-	(label "SDA"
-		(at 248.92 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8a7f532-7ccb-4d0a-849d-30570cc74e48")
-	)
-	(label "SDA"
-		(at 236.22 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f895046c-9e04-41de-95ec-c006bbc1ca1a")
 	)
 	(symbol
 		(lib_id "power:+5V")
@@ -4629,139 +4435,6 @@
 			(project "Sailowtech"
 				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
 					(reference "CAN_Trans1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 48.26 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "27f7bc92-7013-427e-a122-0505b3971020")
-		(property "Reference" "#PWR028"
-			(at 54.61 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 52.07 41.9099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "12ca5830-0756-453a-8186-dc64447034d1")
-		)
-		(instances
-			(project "Sailowtech"
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 248.92 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2b6042bf-3ad7-4103-8daf-3bc0b24abf2b")
-		(property "Reference" "#PWR010"
-			(at 252.73 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 245.11 41.9099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 248.92 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1fbc5252-de12-417e-a186-4c1354ce3a8e")
-		)
-		(instances
-			(project ""
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -5238,71 +4911,6 @@
 			(project "Sailowtech"
 				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 248.92 44.45 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "49b4a4a5-9259-4c55-9009-9c4925cd8593")
-		(property "Reference" "#PWR013"
-			(at 242.57 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 242.316 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 248.92 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db6c8c9c-d637-4cd3-bb77-b9b6c4152a7d")
-		)
-		(instances
-			(project "Sailowtech"
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -5956,81 +5564,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Socket")
-		(at 254 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7b74bb3b-9170-4b49-a3d3-0e8e70d2cceb")
-		(property "Reference" "I2C_3.3V_GND_SDA_SCL2"
-			(at 255.27 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 255.016 47.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal"
-			(at 254 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 254 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ddafde11-cf99-45d8-8ba8-93a4abc1e61c")
-		)
-		(pin "3"
-			(uuid "99e67e15-a3e7-4417-9f26-ea33d3f34b94")
-		)
-		(pin "1"
-			(uuid "2b454796-f79a-4e55-bacd-95723cea782e")
-		)
-		(pin "4"
-			(uuid "27741f79-d969-43fb-805a-71f8635e7355")
-		)
-		(instances
-			(project "Sailowtech"
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "I2C_3.3V_GND_SDA_SCL2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 151.13 110.49 90)
 		(unit 1)
@@ -6358,81 +5891,6 @@
 			(project "Sailowtech"
 				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Socket")
-		(at 43.18 44.45 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aae923b6-2031-47c9-9f75-af4c77a6b751")
-		(property "Reference" "I2C_3.3V_GND_SDA_SCL1"
-			(at 41.91 44.4501 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 42.164 41.148 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal"
-			(at 43.18 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 43.18 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 43.18 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "83a6acb7-40c4-4e4b-bb42-eaf29ecaeb9e")
-		)
-		(pin "3"
-			(uuid "4f091c10-7f6d-42a1-9e35-1d31f0858023")
-		)
-		(pin "1"
-			(uuid "c586a414-9691-4d66-b7a5-8cdadbaea599")
-		)
-		(pin "4"
-			(uuid "d8e14e91-334d-4ba9-95ee-775e17385cc6")
-		)
-		(instances
-			(project "Sailowtech"
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "I2C_3.3V_GND_SDA_SCL1")
 					(unit 1)
 				)
 			)
@@ -6903,73 +6361,6 @@
 			(project ""
 				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 48.26 39.37 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af3da721-5286-4828-9b6e-68b75d18cc59")
-		(property "Reference" "#PWR029"
-			(at 44.45 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 52.07 39.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 48.26 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4436bd42-5f4a-42ea-bfd3-a948037b2f84")
-		)
-		(instances
-			(project "Sailowtech"
-				(path "/de4d0ca4-2c2e-443e-929c-2531c42781b7"
-					(reference "#PWR029")
 					(unit 1)
 				)
 			)
