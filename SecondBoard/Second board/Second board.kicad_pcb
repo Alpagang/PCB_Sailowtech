@@ -910,7 +910,7 @@
 			(at 0.764927 -5.371076 180)
 			(unlocked yes)
 			(layer "Cmts.User")
-			(uuid "f1d70f3c-230b-48ec-9b53-a44b77d796f9")
+			(uuid "17ffabd3-0245-4387-8b8d-c974f75ef8b7")
 			(effects
 				(font
 					(size 0.747776 0.747776)
@@ -1053,7 +1053,7 @@
 			(remove_unused_layers no)
 			(solder_mask_margin 0.0508)
 			(thermal_bridge_angle 0)
-			(uuid "cf6d71dd-1487-42e3-9d72-8c6a9fb2bd8e")
+			(uuid "df37bc88-58f6-46c9-b371-616204022639")
 		)
 		(zone
 			(net 0)
@@ -4827,6 +4827,22 @@
 		(uuid "e5bf07f0-7d54-47b9-869f-a3f5e68a3166")
 	)
 	(segment
+		(start 200.21 96.75)
+		(end 156.15 96.75)
+		(width 0.4064)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "901a276f-44d9-4c64-a75c-65389e99dc18")
+	)
+	(segment
+		(start 156.15 96.75)
+		(end 135.86 76.46)
+		(width 0.4064)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "cdbd7b91-4612-40fc-87f9-653cef4670ef")
+	)
+	(segment
 		(start 117.87875 90.07875)
 		(end 117.87875 75.07875)
 		(width 0.4064)
@@ -4875,6 +4891,14 @@
 		(uuid "4a2128ff-8bdd-497e-bc4a-873fd747c8e5")
 	)
 	(segment
+		(start 93.68 98.25)
+		(end 105.5 86.43)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "4dcc07c3-aa61-42c7-91ac-f76c77144200")
+	)
+	(segment
 		(start 155.75 131.16)
 		(end 155.75 130.811139)
 		(width 0.4064)
@@ -4889,6 +4913,14 @@
 		(layer "F.Cu")
 		(net 15)
 		(uuid "64935572-eacf-4d70-995a-468be06cf412")
+	)
+	(segment
+		(start 105.5 75.26)
+		(end 117.6975 75.26)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "699e14ac-22ba-4daa-b19b-c27e2f865d70")
 	)
 	(segment
 		(start 155.75 130.811139)
@@ -4931,6 +4963,14 @@
 		(uuid "ac759a94-e4f7-4d9f-a69f-9fb8b1a72698")
 	)
 	(segment
+		(start 105.5 86.43)
+		(end 105.5 75.26)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "ba0c6547-4a50-40d4-b175-606b035b0e52")
+	)
+	(segment
 		(start 155.092128 131.817872)
 		(end 155.75 131.16)
 		(width 0.4064)
@@ -4948,7 +4988,7 @@
 	)
 	(segment
 		(start 93.81 75.26)
-		(end 117.6975 75.26)
+		(end 105.5 75.26)
 		(width 0.4064)
 		(layer "F.Cu")
 		(net 15)
@@ -5019,12 +5059,12 @@
 		(uuid "3b1858db-bdb0-48ac-975b-ed05c816ffd1")
 	)
 	(segment
-		(start 118.51 93.25)
-		(end 93.68 93.25)
+		(start 87.6 89.95)
+		(end 87.6 106.6)
 		(width 0.4064)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "46afb36f-1467-4bf2-8774-ee09f9032c47")
+		(uuid "45aab22c-4931-4c86-a84d-bf397db5002b")
 	)
 	(segment
 		(start 107.29 70.26)
@@ -5035,12 +5075,36 @@
 		(uuid "4a49bad0-cbc6-41f5-81b9-3a6444b47e80")
 	)
 	(segment
+		(start 87.6 106.6)
+		(end 94 113)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 17)
+		(uuid "4ad9e7a2-7082-47a3-b65c-19ad26e545fb")
+	)
+	(segment
+		(start 105 113)
+		(end 118.51 99.49)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 17)
+		(uuid "546caf98-d3ca-4acb-bd6d-3faa3bb0d03e")
+	)
+	(segment
 		(start 153.01 44.9475)
 		(end 131.9 66.0575)
 		(width 0.4064)
 		(layer "F.Cu")
 		(net 17)
 		(uuid "6720d7a6-0941-4dae-b132-435164cdb1e9")
+	)
+	(segment
+		(start 118.63 99.37)
+		(end 124.63 99.37)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 17)
+		(uuid "68654ebf-0f26-416f-b54e-37273016537d")
 	)
 	(segment
 		(start 146.6825 38.62)
@@ -5067,6 +5131,14 @@
 		(uuid "832277d5-bfd9-48a1-9828-d7f971fb8b3e")
 	)
 	(segment
+		(start 94 113)
+		(end 105 113)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 17)
+		(uuid "872feb1c-0e3f-4af3-b78b-2f0ed4bbafde")
+	)
+	(segment
 		(start 131.9 100.05)
 		(end 181.92 100.05)
 		(width 0.4064)
@@ -5091,12 +5163,12 @@
 		(uuid "99435e85-6740-4b3a-8392-b8179675ea0c")
 	)
 	(segment
-		(start 131.86 106.6)
-		(end 118.51 93.25)
+		(start 118.51 99.49)
+		(end 118.63 99.37)
 		(width 0.4064)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "a02cebb4-4885-4aec-83e8-939366d81b29")
+		(uuid "a5987131-b252-4a36-8678-42a3bbcf9e67")
 	)
 	(segment
 		(start 93.68 93.25)
@@ -5161,6 +5233,14 @@
 		(layer "F.Cu")
 		(net 17)
 		(uuid "dbdfa5be-db98-4108-bc54-fb2e1976bc28")
+	)
+	(segment
+		(start 131.86 106.6)
+		(end 124.63 99.37)
+		(width 0.4064)
+		(layer "F.Cu")
+		(net 17)
+		(uuid "e1843173-939d-4584-aeaf-7a3e78877bc4")
 	)
 	(segment
 		(start 93.81 70.26)
